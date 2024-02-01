@@ -1,4 +1,4 @@
-# Cadamas Diagnostics Admin-Panel
+# Learning React
 
 ## Deployed Link
 
