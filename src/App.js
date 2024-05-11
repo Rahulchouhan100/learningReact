@@ -1,11 +1,13 @@
-import logo from "./logo.svg";
 import "./App.css";
+import Stepper from "./component/CustomStepper";
+import Modal from "./component/Modal";
 
 function App() {
   return (
     <div className="App">
-      <h1>Cadabams group</h1>
-      <p>Name : Ankush</p>
+      {/* <Modal />
+       */}
+      <Stepper />
     </div>
   );
 }
