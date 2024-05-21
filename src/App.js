@@ -1,13 +1,13 @@
 import "./App.css";
-import Stepper from "./component/CustomStepper";
-import Modal from "./component/Modal";
+import MultiSelectionAccordion from "./component/Accordion/index.js";
 
 function App() {
   return (
     <div className="App">
       {/* <Modal />
        */}
-      <Stepper />
+      {/* <Stepper /> */}
+      <MultiSelectionAccordion />
     </div>
   );
 }
