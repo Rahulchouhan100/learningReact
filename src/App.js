@@ -1,5 +1,6 @@
 import "./App.css";
 import MultiSelectionAccordion from "./component/Accordion/index.js";
+import StarRating from "./component/StarRating/index.js";
 
 function App() {
   return (
@@ -7,7 +8,8 @@ function App() {
       {/* <Modal />
        */}
       {/* <Stepper /> */}
-      <MultiSelectionAccordion />
+      {/* <MultiSelectionAccordion /> */}
+      <StarRating />
     </div>
   );
 }
